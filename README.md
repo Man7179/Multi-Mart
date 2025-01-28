@@ -40,8 +40,10 @@ npm i
 ## Running the App
 1)Frontend
 - Run the command given below in the terminal `npm run start`. By default, it will run on http://localhost:3000
+
 2)Backend
 - Run the command given below in the terminal `npm run dev`. By default, it will run on http://localhost:8000
+  
 3)socket
 - Run the command given below in the terminal `npm run start`. By default, it will run on http://localhost:4000
   
