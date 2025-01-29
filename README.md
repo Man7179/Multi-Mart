@@ -21,6 +21,7 @@ Manoj Manchikatla@DESKTOP-CQS69K9 MINGW64 /d/OneDrive - GLOWDERMA LAB PVT LTD/De
 cd Frontend
 npm i -g yarn
 yarn
+npm run start
 ```
 
 2)Backend
@@ -28,6 +29,7 @@ yarn
 Manoj Manchikatla@DESKTOP-CQS69K9 MINGW64 /d/OneDrive - GLOWDERMA LAB PVT LTD/Desktop/FullStack/multivendor/Multi vendor shop - Copy
 cd Backend
 npm i
+npm run dev
 ```
 
 3)Socket
@@ -35,6 +37,7 @@ npm i
 Manoj Manchikatla@DESKTOP-CQS69K9 MINGW64 /d/OneDrive - GLOWDERMA LAB PVT LTD/Desktop/FullStack/multivendor/Multi vendor shop - Copy
 cd Socket
 npm i
+npm run start
 ```
 
 ## Running the App
