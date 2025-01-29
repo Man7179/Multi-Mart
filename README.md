@@ -19,22 +19,22 @@ cd Multi-Mart
 ```
 Manoj Manchikatla@DESKTOP-CQS69K9 MINGW64 /d/OneDrive - GLOWDERMA LAB PVT LTD/Desktop/FullStack/multivendor/Multi vendor shop - Copy
 cd Frontend
-npm i -g yarn
-yarn
+`npm i -g yarn`
+`yarn`
 ```
 
 2)Backend
 ```
 Manoj Manchikatla@DESKTOP-CQS69K9 MINGW64 /d/OneDrive - GLOWDERMA LAB PVT LTD/Desktop/FullStack/multivendor/Multi vendor shop - Copy
 cd Backend
-npm i
+`npm i`
 ```
 
 3)Socket
 ```
 Manoj Manchikatla@DESKTOP-CQS69K9 MINGW64 /d/OneDrive - GLOWDERMA LAB PVT LTD/Desktop/FullStack/multivendor/Multi vendor shop - Copy
 cd Socket
-npm i
+`npm i`
 ```
 
 ## Running the App
